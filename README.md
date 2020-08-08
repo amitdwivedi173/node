@@ -23,7 +23,7 @@ So that I can spend some hour of my day having fun.
   Technical Constraints:
 
   - Doesn't necessarly need a flashy GUI (can be simple)
-  - Use <s>PHP</s> _(Scala or Javascript)_
+  - Use node js
   - Libs / external modules should only be used for tests
   - Using best in industry agile engineering practices
 
